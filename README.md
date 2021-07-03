@@ -1,2 +1,3 @@
 # githuphup
-hi~ h i
+hi~ h
+pull 되냐?
