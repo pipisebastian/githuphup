@@ -1,2 +1,5 @@
 # githuphup
-hi~ h i 난 branch야puuuulㅔㅕ
+hi~ h
+pull 되냐?
+
+1111
